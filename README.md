@@ -10,7 +10,12 @@ Modify Theme:
 #About
 ![screencapture-file-D-FrontCode-Flexed-Free-Website-Template-Free-CSS-com-flexed-about-html-2021-06-29-08_00_39](https://user-images.githubusercontent.com/83724436/123728610-28c8ee80-d8b1-11eb-883d-86beff8764ef.png)
 #Yoga
-![screencapture-file-D-FrontCode-Flexed-Free-Website-Template-Free-CSS-com-flexed-online-html-2021-06-29-08_01_40](https://user-images.githubusercontent.com/83724436/123728645-38e0ce00-d8b1-11eb-8cf2-72660c4de803.png)
+
+
+
+
+![screencapture-file-D-FrontCode-Flexed-Free-Website-Template-Free-CSS-com-flexed-yoga-html-2021-06-29-08_20_45](https://user-images.githubusercontent.com/83724436/123729665-fa4c1300-d8b2-11eb-977f-356a55d60d29.png)
+
 #pricing
 ![screencapture-file-D-FrontCode-Flexed-Free-Website-Template-Free-CSS-com-flexed-pricing-html-2021-06-29-08_01_17](https://user-images.githubusercontent.com/83724436/123728688-50b85200-d8b1-11eb-9f4c-7813dbeb9da1.png)
 #Yoga Online
